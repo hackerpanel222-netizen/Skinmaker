@@ -1,12 +1,27 @@
 [
   {
-    "name": "Cool Steve",
-    "image_url": "YAHAN_IMAGE_KA_RAW_LINK_DALNA_HAI",
+    "name": "Skin 1",
+    "image_url": "https://raw.githubusercontent.com/hackerpanel222-netizen/Skinmaker/main/2e0c51dedd534d22.png",
     "category": "Boys"
   },
   {
-    "name": "Fire Alex",
-    "image_url": "YAHAN_DUSRA_LINK_DALNA_HAI",
+    "name": "Skin 2",
+    "image_url": "https://raw.githubusercontent.com/hackerpanel222-netizen/Skinmaker/main/461c0775cae9de9e.png",
     "category": "PvP"
+  },
+  {
+    "name": "Skin 3",
+    "image_url": "https://raw.githubusercontent.com/hackerpanel222-netizen/Skinmaker/main/4756ade7a82f5223.png",
+    "category": "Cool"
+  },
+  {
+    "name": "Skin 4",
+    "image_url": "https://raw.githubusercontent.com/hackerpanel222-netizen/Skinmaker/main/93782676660791e4.png",
+    "category": "Gamer"
+  },
+  {
+    "name": "Skin 5",
+    "image_url": "https://raw.githubusercontent.com/hackerpanel222-netizen/Skinmaker/main/e82e7bebf56a58eb.png",
+    "category": "Hacker"
   }
 ]
